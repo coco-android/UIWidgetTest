@@ -20,6 +20,8 @@
         </activity>
         <activity android:name=".LinearLayout.LayoutWeightActivity">
         </activity>
+        <activity android:name=".PercentFrameLayoutActivity">
+        </activity>
     </application>
 
 </manifest>
